@@ -1,0 +1,25 @@
+{
+  "id": "/Wildframe-Studios-Store/",
+  "name": "Wildframe Studios",
+  "short_name": "Wildframe",
+  "description": "Explore original Wildframe comics, characters, books and merchandise concepts.",
+  "start_url": "/Wildframe-Studios-Store/",
+  "scope": "/Wildframe-Studios-Store/",
+  "display": "standalone",
+  "background_color": "#07111c",
+  "theme_color": "#07111c",
+  "icons": [
+    {
+      "src": "wildframe-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "wildframe-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
